@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Ciro Giorgini </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4996&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=I%C2%B4m+a+Front-end+developer;Currently+studying+back-end" alt="Typing SVG" /></a>
 </p>
@@ -87,7 +87,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/ciro-giorgini-86813b260" target="_blank">
+<a href="https://www.linkedin.com/in/ciro-giorgini-86813b260/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: Ciro Giorgini-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
